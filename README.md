@@ -1,8 +1,8 @@
-# LIF Neuron Alternatives
+# Spiking Alternatives for the Leaky Integrate-and-Fire Neuron: Applications in Cybersecurity and Financial Threats
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15460335.svg)](https://doi.org/10.5281/zenodo.15460335)
 
-Source code of the paper entitled "Spiking Alternatives for the Leaky Integrate-and-Fire Neuron: Applications in Cybersecurity and Financial Threats" and accepted at IbPRIA 2025, the 23rd International Conference on Artificial Intelligence.
+Source code of the paper entitled "Spiking Alternatives for the Leaky Integrate-and-Fire Neuron: Applications in Cybersecurity and Financial Threats" and presented at IbPRIA 2025, the 23rd International Conference on Artificial Intelligence.
 
 ## Paper Abstract
 
