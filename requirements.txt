@@ -1,0 +1,11 @@
+matplotlib
+numpy
+optuna
+optuna-dashboard
+pandas
+pyjoules
+scikit-learn
+seaborn
+snntorch
+torch
+torchvision
