@@ -5,7 +5,7 @@ authors:
   given-names: "Dylan"
   orcid: "https://orcid.org/0000-0001-6923-900X"
 title: "LIF-Neuron-Alternatives"
-version: 1.0.2
+version: 1.0.3
 doi: 10.5281/zenodo.15460334
 date-released: 2025-05-20
 url: "https://github.com/dylanperdigao/LIF-Neuron-Alternatives"
